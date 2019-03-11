@@ -1,0 +1,3 @@
+limiterconfig:
+      limitWindow: 20
+      requestsAllowed: 4
